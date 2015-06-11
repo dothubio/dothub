@@ -1,0 +1,24 @@
+{
+  "name": "dothub",
+  "version": "0.0.0",
+  "description": "Manage your dotfiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dothubio/dothub"
+  },
+  "keywords": [
+    "dothub",
+    "dotfiles",
+    "config"
+  ],
+  "author": "Marko Gresak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dothubio/dothub/issues"
+  },
+  "homepage": "https://github.com/dothubio/dothub"
+}
