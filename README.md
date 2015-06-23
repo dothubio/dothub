@@ -2,7 +2,8 @@
 
 [![Build Status][travis-image]][travis-url] [![Test Coverage][coverage-image]][coverage-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
-> reserved
+
+Dotfiles manager CLI.
 
 
 [npm-url]: https://npmjs.org/package/dothub
